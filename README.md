@@ -1,4 +1,5 @@
 # AllayProtector
+This is a plugin for Minecraft Java servers. Tested on Paper 1.19.3
 
 Protect your allays!
 Adds a config.yml with 3 options
