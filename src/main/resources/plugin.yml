@@ -1,0 +1,4 @@
+name: AllayProtector
+version: '${project.version}'
+main: de.awels.mc.AllayProtector
+api-version: 1.19
